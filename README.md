@@ -1,6 +1,6 @@
 # Java Spring Boot Projects
 
-Welcome to my Java Spring Boot Projects repository! This collection of projects aims to showcase some of my Spring project and experience in Spring and Spring Boot framework.
+Hello and welcome to my Java Spring Boot Projects repository! This is a compilation of various projects that I have developed to demonstrate my skills and experience with the Spring and Spring Boot frameworks.
 
 ## What is Spring?
 
